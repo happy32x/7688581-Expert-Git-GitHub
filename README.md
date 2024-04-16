@@ -12,7 +12,8 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 Python 2
-
+ou
+Python 3
 ```
 
 ### Installation
